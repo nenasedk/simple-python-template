@@ -9,6 +9,10 @@ https://docs.github.com/en/get-started/getting-started-with-git
 3. Local setup - `ssh-keygen`
 4. Setup username and email
 5. git-credential-manager
+git config --global user.name "Mona Lisa"
+git config --global user.email "Mona Lisa"
+
+
 6. git cheatsheet - basic commands: clone, pull, add, commit, push, merge, status.
 7. Best practices: 
     - create branches/forks, make your change (keep it small), and merge back into main.
